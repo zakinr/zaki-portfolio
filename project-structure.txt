@@ -1,0 +1,13 @@
+zaki-portfolio/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+├── components/
+│   ├── ui/
+│   ├── hero-section.tsx
+│   ├── about-section.tsx
+│   └── ...
+├── package.json
+├── next.config.mjs
+└── tailwind.config.ts
